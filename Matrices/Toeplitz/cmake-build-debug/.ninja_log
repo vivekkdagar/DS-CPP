@@ -1,0 +1,8 @@
+# ninja log v5
+1	549	6881614625918006	CMakeFiles/Toeplitz.dir/main.cpp.obj	e27386f96c1f55b2
+5	589	6881614626306979	CMakeFiles/Toeplitz.dir/Toeplitz.cpp.obj	ab944d270c2ac52d
+589	696	6881614627344528	Toeplitz.exe	19e75085c6730a3d
+4	488	6881614931604706	CMakeFiles/Toeplitz.dir/main.cpp.obj	e27386f96c1f55b2
+488	595	6881614932630896	Toeplitz.exe	19e75085c6730a3d
+10	589	6881615007305712	CMakeFiles/Toeplitz.dir/main.cpp.obj	e27386f96c1f55b2
+590	691	6881615008278785	Toeplitz.exe	19e75085c6730a3d

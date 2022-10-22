@@ -1,0 +1,12 @@
+# ninja log v5
+1	491	6881576407279001	CMakeFiles/Array.dir/main.cpp.obj	bceebe63738b07e7
+5	798	6881576410360769	CMakeFiles/Array.dir/Polynomial.cpp.obj	52fbad149c110ae4
+799	957	6881576411886700	Array.exe	f7309eeced81d614
+8	613	6881576481291116	CMakeFiles/Array.dir/main.cpp.obj	bceebe63738b07e7
+614	717	6881576482288448	Array.exe	f7309eeced81d614
+12	698	6881576752847960	CMakeFiles/Array.dir/main.cpp.obj	bceebe63738b07e7
+699	807	6881576753904987	Array.exe	f7309eeced81d614
+4	638	6881576911006261	CMakeFiles/Array.dir/main.cpp.obj	bceebe63738b07e7
+638	749	6881576912084353	Array.exe	f7309eeced81d614
+5	568	6881577157299725	CMakeFiles/Array.dir/main.cpp.obj	bceebe63738b07e7
+568	677	6881577158345057	Array.exe	f7309eeced81d614

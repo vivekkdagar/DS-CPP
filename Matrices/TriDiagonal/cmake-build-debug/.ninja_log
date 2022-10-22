@@ -1,0 +1,6 @@
+# ninja log v5
+1	486	6881610321979621	CMakeFiles/TriDiagonal.dir/main.cpp.obj	800cf33caddb5ebd
+5	533	6881610322438389	CMakeFiles/TriDiagonal.dir/TriDiagonal.cpp.obj	95b55663faf99a1c
+534	641	6881610323476461	TriDiagonal.exe	3ef2ec99287d824e
+4	495	6881610516429294	CMakeFiles/TriDiagonal.dir/main.cpp.obj	800cf33caddb5ebd
+496	604	6881610517456259	TriDiagonal.exe	3ef2ec99287d824e
