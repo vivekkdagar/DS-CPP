@@ -1,0 +1,3 @@
+C:/Users/vivek/Documents/Code/DS-CPP/Stack/Evaluation Of Infix/cmake-build-debug/CMakeFiles/Evaluation_Of_Infix.dir
+C:/Users/vivek/Documents/Code/DS-CPP/Stack/Evaluation Of Infix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vivek/Documents/Code/DS-CPP/Stack/Evaluation Of Infix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

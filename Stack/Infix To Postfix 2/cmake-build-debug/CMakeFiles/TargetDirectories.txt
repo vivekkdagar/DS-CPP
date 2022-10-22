@@ -1,0 +1,3 @@
+C:/Users/vivek/Documents/Code/DS-CPP/Stack/Infix To Postfix 2/cmake-build-debug/CMakeFiles/Infix_To_Postfix_2.dir
+C:/Users/vivek/Documents/Code/DS-CPP/Stack/Infix To Postfix 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vivek/Documents/Code/DS-CPP/Stack/Infix To Postfix 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

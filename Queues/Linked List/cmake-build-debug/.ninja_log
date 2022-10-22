@@ -1,0 +1,21 @@
+# ninja log v5
+1	585	6880470442479797	CMakeFiles/Linked_List.dir/main.cpp.obj	d7e6d13684b012f8
+5	644	6880470443063756	CMakeFiles/Linked_List.dir/Queue.cpp.obj	847b6465c8fc9ead
+644	777	6880470444326150	Linked_List.exe	d33309be5af7c268
+4	529	6880470515930066	CMakeFiles/Linked_List.dir/main.cpp.obj	d7e6d13684b012f8
+529	637	6880470516973109	Linked_List.exe	d33309be5af7c268
+4	546	6880471135045777	CMakeFiles/Linked_List.dir/main.cpp.obj	d7e6d13684b012f8
+8	576	6880471135364646	CMakeFiles/Linked_List.dir/Queue.cpp.obj	847b6465c8fc9ead
+576	681	6880471136371239	Linked_List.exe	d33309be5af7c268
+5	484	6880471240844141	CMakeFiles/Linked_List.dir/main.cpp.obj	d7e6d13684b012f8
+485	590	6880471241865302	Linked_List.exe	d33309be5af7c268
+15	628	6880471294165275	CMakeFiles/Linked_List.dir/main.cpp.obj	d7e6d13684b012f8
+629	733	6880471295190613	Linked_List.exe	d33309be5af7c268
+10	621	6880471403493794	CMakeFiles/Linked_List.dir/main.cpp.obj	d7e6d13684b012f8
+622	726	6880471404501149	Linked_List.exe	d33309be5af7c268
+11	555	6880471486990187	CMakeFiles/Linked_List.dir/main.cpp.obj	d7e6d13684b012f8
+555	669	6880471488072488	Linked_List.exe	d33309be5af7c268
+4	477	6880471554024761	CMakeFiles/Linked_List.dir/main.cpp.obj	d7e6d13684b012f8
+477	583	6880471555037609	Linked_List.exe	d33309be5af7c268
+3	477	6880471617340970	CMakeFiles/Linked_List.dir/main.cpp.obj	d7e6d13684b012f8
+477	585	6880471618393851	Linked_List.exe	d33309be5af7c268
