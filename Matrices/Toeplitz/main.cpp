@@ -5,10 +5,10 @@ using namespace std;
 
 int main() {
     Toeplitz matrix(3);
-    for(int i {1}; i <= 3; i++ ){
-        for(int j {1}; j <= 3; j++) {
-            matrix.set(i,j, i);
-        }
-    }
+    matrix.set(1,1,1);
+    matrix.set(1,2,2);
+    matrix.set(1,3,3);
+    matrix.set(2,1,4);
+    matrix.set(3,1,5);
     cout << matrix;
 }

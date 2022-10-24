@@ -1,5 +1,5 @@
 //
-// Created by vivek on 22-10-2022.
+// Created by vivek on 24-10-2022.
 //
 
 #ifndef TOEPLITZ_TOEPLITZ_H
@@ -10,18 +10,18 @@
 #include <ostream>
 
 class Toeplitz {
-    unsigned dimensions;
     std::vector<int> array;
+    unsigned dimensions;
 public:
     explicit Toeplitz(unsigned int dimensions);
 
-    unsigned int getDimensions() const;
+    void set(unsigned i, unsigned j, int val);
 
     int get(unsigned i, unsigned j) const;
 
-    void set(unsigned i, unsigned j, int value);
-
     friend std::ostream &operator<<(std::ostream &os, const Toeplitz &toeplitz);
+
+    unsigned int getDimensions() const;
 
     virtual ~Toeplitz();
 };

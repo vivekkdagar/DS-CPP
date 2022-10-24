@@ -1,8 +1,15 @@
 # ninja log v5
-1	549	6881614625918006	CMakeFiles/Toeplitz.dir/main.cpp.obj	e27386f96c1f55b2
-5	589	6881614626306979	CMakeFiles/Toeplitz.dir/Toeplitz.cpp.obj	ab944d270c2ac52d
-589	696	6881614627344528	Toeplitz.exe	19e75085c6730a3d
-4	488	6881614931604706	CMakeFiles/Toeplitz.dir/main.cpp.obj	e27386f96c1f55b2
-488	595	6881614932630896	Toeplitz.exe	19e75085c6730a3d
-10	589	6881615007305712	CMakeFiles/Toeplitz.dir/main.cpp.obj	e27386f96c1f55b2
-590	691	6881615008278785	Toeplitz.exe	19e75085c6730a3d
+3	100	6883356894996344	CMakeFiles/Toeplitz.dir/main.cpp.obj	e27386f96c1f55b2
+545	656	6883356900510357	Toeplitz.exe	19e75085c6730a3d
+7	545	6883356899438929	CMakeFiles/Toeplitz.dir/Toeplitz.cpp.obj	ab944d270c2ac52d
+3	319	6883368921877668	CMakeFiles/Toeplitz.dir/main.cpp.obj	e27386f96c1f55b2
+6	342	6883368922107333	CMakeFiles/Toeplitz.dir/Toeplitz.cpp.obj	ab944d270c2ac52d
+342	475	6883368923408380	Toeplitz.exe	19e75085c6730a3d
+2	300	6883369151578699	CMakeFiles/Toeplitz.dir/main.cpp.obj	e27386f96c1f55b2
+300	370	6883369152253986	Toeplitz.exe	19e75085c6730a3d
+2	315	6883369456416555	CMakeFiles/Toeplitz.dir/main.cpp.obj	e27386f96c1f55b2
+5	353	6883369456775601	CMakeFiles/Toeplitz.dir/Toeplitz.cpp.obj	ab944d270c2ac52d
+353	428	6883369457519017	Toeplitz.exe	19e75085c6730a3d
+2	359	6883369862121046	CMakeFiles/Toeplitz.dir/main.cpp.obj	e27386f96c1f55b2
+5	392	6883369862450182	CMakeFiles/Toeplitz.dir/Toeplitz.cpp.obj	ab944d270c2ac52d
+392	475	6883369863258264	Toeplitz.exe	19e75085c6730a3d

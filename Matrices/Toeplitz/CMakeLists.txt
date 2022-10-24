@@ -3,4 +3,4 @@ project(Toeplitz)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Toeplitz main.cpp Toeplitz.cpp Toeplitz.h)
+add_executable(Toeplitz main.cpp Toeplitz.cpp Toeplitz.h Toeplitz.cpp Toeplitz.h)

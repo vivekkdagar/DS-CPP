@@ -1,39 +1,39 @@
 //
-// Created by vivek on 22-10-2022.
+// Created by vivek on 24-10-2022.
 //
 
 #include "Toeplitz.h"
 
 Toeplitz::Toeplitz(unsigned int dimensions) : dimensions(dimensions) {
-    array.resize(2 * dimensions - 1);       // number of non 0 elements
+    array.resize((2 * dimensions) - 1);
 }
 
-unsigned int Toeplitz::getDimensions() const {
-    return dimensions;
+void Toeplitz::set(unsigned int i, unsigned int j, int val) {
+    if (i <= j)
+        this->array.at(j - i) = val;
+    if (i > j)
+        this->array.at(this->dimensions + i - j - 1) = val;
 }
 
 int Toeplitz::get(unsigned int i, unsigned int j) const {
     if (i <= j)
-        return array[j - i];
-    else if (i > j)
-        return array[this->dimensions + i - j - 1];
-}
-
-void Toeplitz::set(unsigned int i, unsigned int j, int value) {
-    if (i <= j)
-        array[j - i] = value;
-    else if (i > j)
-        array[this->dimensions + i - j - 1] = value;
+        return this->array.at(j - i);
+    if (i > j)
+        return this->array[this->dimensions + i - j - 1];
 }
 
 std::ostream &operator<<(std::ostream &os, const Toeplitz &toeplitz) {
-    for (int i{1}; i <= toeplitz.dimensions; i++) {
-        for (int j{1}; j <= toeplitz.dimensions; j++) {
-            os << toeplitz.get(i, j) << " ";
+    printf ("\nMatrix is: \n");
+    for (int i = 1; i <= toeplitz.dimensions; i++) {
+        for (int j = 1; j <= toeplitz.dimensions; j++) {
+            os << toeplitz.get(i,j) << " ";
         }
         os << std::endl;
-    }
-    return os;
+    } return os;
+}
+
+unsigned int Toeplitz::getDimensions() const {
+    return dimensions;
 }
 
 Toeplitz::~Toeplitz() {
