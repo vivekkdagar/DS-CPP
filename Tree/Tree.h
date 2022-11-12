@@ -58,6 +58,10 @@ public:
 
     bool isStrictBinary();
 
+    bool exists(Node *p, int key);
+
+    bool exists(int key) { return exists(root, key); }
+
     void destroy(Node *p);
 
     ~Tree();

@@ -191,6 +191,25 @@ bool Tree::isStrictBinary() {
     return (countLeafs() + countD2nodes() == count());
 }
 
+bool Tree::exists(Node *p, int key) {
+    if (p) {
+        if (p->data == key)
+            return true;
+
+        /* then recur on left subtree */
+        bool res1 = exists(p->lChild, key);
+        // node found, no need to look further
+        if (res1) return true;
+
+        /* node is not found in left,
+        so recur on right subtree */
+        bool res2 = exists(p->rChild, key);
+
+        return res2;
+    }
+    return false;
+}
+
 void Tree::destroy(Node *p) {
     if (p) {
         destroy(p->lChild);

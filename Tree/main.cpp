@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    Tree bt(25);
+    Tree bt(45);
 
     bt.grow();
     cout << endl;
@@ -25,5 +25,5 @@ int main() {
     bt.Levelorder();
     cout << endl;
 
-    cout << "count of degree 2: " << bt.isStrictBinary() << endl;
+    cout << "count of degree 2: " << bt.exists(4) << endl;
 }

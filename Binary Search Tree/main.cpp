@@ -4,7 +4,11 @@
 using namespace std;
 
 int main() {
-    int arr[] = {10,5,20,8,30,10};
-    BST tree(arr, 6);
+    BST tree;
+    tree.sprout(45);
+    tree.sprout(26);
+    tree.sprout(70);
+    tree.sprout(30);
+    tree.sprout(40);
     tree.Inorder();
 }
